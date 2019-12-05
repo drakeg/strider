@@ -135,7 +135,7 @@
     "bower-installer": "^1.2.0",
     "browserify": "^11.1.0",
     "browserify-shim": "^3.8.0",
-    "chai": "^1.9.2",
+    "chai": "^2.3.0",
     "chai-as-promised": "^4.1.0",
     "commander": ">=0.5.2",
     "expect.js": "^0.3.1",
