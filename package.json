@@ -79,7 +79,7 @@
     "extend": "^2.0.0",
     "global-tunnel": "^1.2.0",
     "gravatar": "^1.1.0",
-    "httpcheck": "^0.2.0",
+    "httpcheck": "^0.3.0",
     "jade": "^0.35.0",
     "lodash": "^3.9.3",
     "mailer": "^0.6.7",
