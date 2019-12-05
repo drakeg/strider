@@ -139,7 +139,7 @@
     "chai-as-promised": "^4.1.0",
     "commander": ">=0.5.2",
     "expect.js": "^0.3.1",
-    "jquery": "^2.1.4",
+    "jquery": "^3.4.1",
     "jshint": "^2.5.6",
     "less": "^2.2.0",
     "minifyify": "^7.0.6",
