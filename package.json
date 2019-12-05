@@ -91,7 +91,7 @@
     "nodemailer": "^0.6.5",
     "passport": "^0.2.0",
     "passport-local": "^1.0.0",
-    "path-to-regexp": "^1.0.2",
+    "path-to-regexp": "^6.1.0",
     "rc": "^1.0.3",
     "request": "^2.49.0",
     "semver": "^4.3.3",
