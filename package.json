@@ -121,7 +121,7 @@
     "strider-slack": "^2.0.0",
     "strider-ssh-deploy": "^0.4.0",
     "superagent": "^1.2.0",
-    "swig": "^0.14.0",
+    "swig": "^1.4.2",
     "thirty-two": "0.0.2",
     "validator": "^3.22.1",
     "winston": "^3.2.1"
