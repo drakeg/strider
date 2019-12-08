@@ -123,7 +123,7 @@
     "superagent": "^5.1.2",
     "swig": "^1.4.2",
     "thirty-two": "1.0.2",
-    "validator": "^3.22.1",
+    "validator": "^12.1.0",
     "winston": "^3.2.1"
   },
   "devDependencies": {
