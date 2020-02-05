@@ -12,3 +12,6 @@ patch:
   'npm:ms:20170412':
     - socket.io > socket.io-adapter > socket.io-parser > debug > ms:
         patched: '2020-02-04T02:28:57.753Z'
+  'npm:moment:20161019':
+    - strider-email-notifier > moment:
+        patched: '2020-02-05T01:18:23.213Z'
