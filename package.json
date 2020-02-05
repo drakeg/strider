@@ -78,7 +78,7 @@
     "everypaas": "git://github.com/janruehling/everypaas.git#fixHerokuLookup",
     "express": "^4.10.6",
     "express-session": "^1.9.3",
-    "extend": "^2.0.0",
+    "extend": "^3.0.2",
     "global-tunnel": "^1.2.0",
     "gravatar": "^1.1.0",
     "httpcheck": "^0.3.0",
