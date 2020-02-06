@@ -133,7 +133,7 @@
     "angular": "^1.4.7",
     "angular-route": "^1.4.7",
     "apidoc": "^0.20.0",
-    "babelify": "^7.3.0",
+    "babelify": "^10.0.0",
     "blanket": "^1.1.5",
     "bower-installer": "^1.2.0",
     "browserify": "^16.5.0",
