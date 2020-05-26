@@ -16,5 +16,27 @@ patch:
     - strider-email-notifier > moment:
         patched: '2020-02-05T01:18:23.213Z'
   SNYK-JS-LODASH-567746:
+    - strider-email-notifier > lodash:
+        patched: '2020-04-30T22:13:19.377Z'
+    - lodash:
+        patched: '2020-04-30T22:13:19.377Z'
+    - strider-github > lodash:
+        patched: '2020-04-30T22:13:19.377Z'
+    - strider-simple-runner > lodash:
+        patched: '2020-04-30T22:13:19.377Z'
+    - strider-bitbucket > async > lodash:
+        patched: '2020-04-30T22:13:19.377Z'
+    - winston > async > lodash:
+        patched: '2020-04-30T22:13:19.377Z'
+    - strider-email-notifier > async > lodash:
+        patched: '2020-04-30T22:13:19.377Z'
+    - strider-gitlab > async > lodash:
+        patched: '2020-04-30T22:13:19.377Z'
+    - strider-email-notifier > pug > pug-code-gen > constantinople > babel-types > lodash:
+        patched: '2020-04-30T22:13:19.377Z'
+    - strider-email-notifier > pug > pug-filters > constantinople > babel-types > lodash:
+        patched: '2020-04-30T22:13:19.377Z'
+    - strider-email-notifier > pug > pug-code-gen > pug-attrs > constantinople > babel-types > lodash:
+        patched: '2020-04-30T22:13:19.377Z'
     - strider-gitlab > lodash:
         patched: '2020-05-02T22:13:00.013Z'
