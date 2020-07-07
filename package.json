@@ -110,7 +110,7 @@
     "strider-email-notifier": "^1.0.0",
     "strider-env": "^0.5.1",
     "strider-extension-loader": "^0.4.5",
-    "strider-git": "^1.0.3",
+    "strider-git": "^2.0.0",
     "strider-github": "^3.0.0",
     "strider-gitlab": "^2.0.0",
     "strider-heroku": "^0.2.0",
