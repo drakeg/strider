@@ -122,7 +122,7 @@
     "strider-simple-runner": "^1.1.0",
     "strider-slack": "^2.0.0",
     "strider-ssh-deploy": "^1.0.0",
-    "superagent": "^5.1.2",
+    "superagent": "^6.0.0",
     "swig": "^1.4.2",
     "thirty-two": "1.0.2",
     "validator": "^13.0.0",
