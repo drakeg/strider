@@ -147,7 +147,7 @@
     "less": "^3.10.3",
     "minifyify": "^7.0.6",
     "mkdirp": "^1.0.3",
-    "mocha": "^7.0.1",
+    "mocha": "^8.3.1",
     "node-mocks-http": "^1.2.4",
     "should": "^13.2.3",
     "sinon": "^9.0.0",
