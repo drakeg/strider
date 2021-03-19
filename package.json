@@ -132,7 +132,7 @@
   "devDependencies": {
     "angular": "^1.4.7",
     "angular-route": "^1.4.7",
-    "apidoc": "^0.22.1",
+    "apidoc": "^0.27.1",
     "babelify": "^7.3.0",
     "blanket": "^1.1.5",
     "bower-installer": "^1.2.0",
