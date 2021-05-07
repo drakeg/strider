@@ -99,7 +99,7 @@
     "semver": "^7.1.2",
     "serve-favicon": "^2.2.0",
     "socket.io": "^2.0.2",
-    "socket.io-client": "^2.0.2",
+    "socket.io-client": "^4.0.2",
     "ssh-keypair": "^2.0.0",
     "step": "1.0.0",
     "strider-bitbucket": "^1.2.0",
