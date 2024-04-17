@@ -94,3 +94,8 @@ patch:
         patched: '2024-04-17T01:49:00.724Z'
         id: 'npm:tar:20151103'
         path: strider-ssh-deploy > npmd-pack > tar
+  'npm:uglify-js:20150824':
+    - jade > transformers > uglify-js:
+        patched: '2024-04-17T01:59:12.178Z'
+        id: 'npm:uglify-js:20150824'
+        path: jade > transformers > uglify-js
